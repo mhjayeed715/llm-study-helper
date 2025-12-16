@@ -1,0 +1,17 @@
+{
+  "name": "llm-study-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js 'Photosynthesis process'",
+    "demo": "node index.js 'Long Short-Term Memory (LSTM) networks'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
